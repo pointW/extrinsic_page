@@ -167,7 +167,7 @@ We test our proposal in robotic manipulation (and in other domains, please see t
 </div>
 
 ## Code
-https://github.com/pointW/extrinsic_equi
+[https://github.com/pointW/extrinsic_equi](https://github.com/pointW/extrinsic_equi)
 
 ## Citation
 {% raw %}
