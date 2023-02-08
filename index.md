@@ -35,7 +35,10 @@ img.rounded {
 </style>
 
 ## Paper
-Under review. [arXiv](https://arxiv.org/pdf/2211.09231.pdf)  
+Published at The Eleventh International Conference on Learning Representations (ICLR 2023)  
+**Notable-Top-25% (Spotlight)**  
+[arXiv](https://arxiv.org/pdf/2211.09231.pdf)  
+[OpenReview](https://openreview.net/forum?id=P4MUGRM4Acu)
 
 <div style="width:100%; display:flex">
   <div class="people_column">
@@ -163,14 +166,19 @@ We test our proposal in robotic manipulation (and in other domains, please see t
   <iframe width="853" height="480" src="https://www.youtube.com/embed/US4uWndGx9I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+## Code
+https://github.com/pointW/extrinsic_equi
+
 ## Citation
 {% raw %}
 ```
-@article{wang2022surprising,
-  title={The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry},
-  author={Dian Wang, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters, Robert Platt},
-  journal={arXiv preprint arXiv:2211.09231},
-  year={2022}
+@inproceedings{
+wang2023surprising,
+title={The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry},
+author={Dian Wang and Jung Yeon Park and Neel Sortur and Lawson L.S. Wong and Robin Walters and Robert Platt},
+booktitle={International Conference on Learning Representations},
+year={2023},
+url={https://openreview.net/forum?id=P4MUGRM4Acu}
 }
 ```
 {% endraw %}
