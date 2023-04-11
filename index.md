@@ -166,6 +166,12 @@ We test our proposal in robotic manipulation (and in other domains, please see t
   <iframe width="853" height="480" src="https://www.youtube.com/embed/US4uWndGx9I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+## Talk
+
+<div style="text-align:center">
+  <iframe width="853" height="480" src="https://www.youtube.com/embed/QYSb_hueDHI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ## Code
 [https://github.com/pointW/extrinsic_equi](https://github.com/pointW/extrinsic_equi)
 
